@@ -15,7 +15,7 @@ val disableAnalyticsPatch = bytecodePatch(
     description = "Blocks analytics and tracking sent to AliExpress servers.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         AnalyticsInitFingerprint.method.apply {

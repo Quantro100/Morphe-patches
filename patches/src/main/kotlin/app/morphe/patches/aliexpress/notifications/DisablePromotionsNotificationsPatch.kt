@@ -15,7 +15,7 @@ val disablePromotionsNotificationsPatch = bytecodePatch(
     description = "Disables promotional push notifications for deals and coupons.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         PushShowFingerprint.method.apply {

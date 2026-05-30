@@ -15,7 +15,7 @@ val removeCouponsPopupPatch = bytecodePatch(
     description = "Removes the coupon and promotion popup dialogs.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         CouponFatigueFingerprint.method.apply {

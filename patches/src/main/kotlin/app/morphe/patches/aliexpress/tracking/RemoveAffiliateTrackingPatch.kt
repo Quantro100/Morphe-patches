@@ -15,7 +15,7 @@ val removeAffiliateTrackingPatch = bytecodePatch(
     description = "Removes affiliate tracking parameters from shared links.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         TrackHelperFingerprint.method.apply {

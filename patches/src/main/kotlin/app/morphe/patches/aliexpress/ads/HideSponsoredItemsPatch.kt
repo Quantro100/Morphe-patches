@@ -15,7 +15,7 @@ val hideSponsoredItemsPatch = bytecodePatch(
     description = "Filters out sponsored and promoted products from search results.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         AdcReportFingerprint.method.apply {

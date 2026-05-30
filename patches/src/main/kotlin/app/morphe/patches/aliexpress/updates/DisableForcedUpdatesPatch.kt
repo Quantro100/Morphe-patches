@@ -15,7 +15,7 @@ val disableForcedUpdatesPatch = bytecodePatch(
     description = "Disables the forced update popup that prevents using older versions of the app.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         UpdateCheckFingerprint.method.apply {

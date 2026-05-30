@@ -15,7 +15,7 @@ val enableImageSavingPatch = bytecodePatch(
     description = "Enables saving product images directly to the device gallery.",
     default = false,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         MediaSaveFingerprint.method.apply {

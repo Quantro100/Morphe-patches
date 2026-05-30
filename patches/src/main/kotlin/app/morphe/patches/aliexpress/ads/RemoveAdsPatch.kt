@@ -15,7 +15,7 @@ val removeAdsPatch = bytecodePatch(
     description = "Removes sponsored products and advertisements from the AliExpress home feed and search results.",
     default = true,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         AdcInitFingerprint.method.apply {

@@ -9,14 +9,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -34,14 +34,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -59,14 +59,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -84,14 +84,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -109,14 +109,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -134,14 +134,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -159,14 +159,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -184,14 +184,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null
@@ -209,14 +209,14 @@
       "compatiblePackages": [
         {
           "packageName": "com.alibaba.aliexpresshd",
-          "name": null,
+          "name": "AliExpress",
           "description": null,
           "apkFileType": null,
           "appIconColor": null,
           "signatures": null,
           "targets": [
             {
-              "version": null,
+              "version": "8.162.8",
               "isExperimental": false,
               "minSdk": null,
               "description": null

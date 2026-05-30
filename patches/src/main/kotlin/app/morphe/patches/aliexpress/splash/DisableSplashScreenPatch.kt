@@ -15,7 +15,7 @@ val disableSplashScreenPatch = bytecodePatch(
     description = "Skips the splash screen on app launch.",
     default = false,
 ) {
-    compatibleWith(*COMPATIBILITY_ALIEXPRESS)
+    compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
         SplashShowFingerprint.method.apply {
