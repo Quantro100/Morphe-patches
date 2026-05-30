@@ -22,6 +22,7 @@ tasks {
         description = "Build patch with patch list"
         dependsOn(build)
         classpath = sourceSets["main"].runtimeClasspath
+        args(rootProject.projectDir.resolve("patches-list.json").absolutePath)
         mainClass.set("app.morphe.util.PatchListGeneratorKt")
     }
     publish {
