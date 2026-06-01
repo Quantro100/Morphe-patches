@@ -40,4 +40,8 @@ public final class PreferencesPatch {
     public static boolean enableImageSaving() {
         return false;
     }
+
+    public static boolean bypassSignatureCheck() {
+        return true;
+    }
 }

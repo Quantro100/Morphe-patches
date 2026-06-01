@@ -225,6 +225,31 @@
         }
       ],
       "options": []
+    },
+    {
+      "name": "Bypass signature check",
+      "description": "Bypasses SecurityGuard integrity checks that prevent login on patched APKs.",
+      "default": true,
+      "dependencies": [],
+      "compatiblePackages": [
+        {
+          "packageName": "com.alibaba.aliexpresshd",
+          "name": "AliExpress",
+          "description": null,
+          "apkFileType": null,
+          "appIconColor": null,
+          "signatures": null,
+          "targets": [
+            {
+              "version": "8.162.8",
+              "isExperimental": false,
+              "minSdk": null,
+              "description": null
+            }
+          ]
+        }
+      ],
+      "options": []
     }
   ]
 }

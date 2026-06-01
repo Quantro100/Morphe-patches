@@ -37,6 +37,7 @@ java -jar cli.jar patch --patches aliexpress.mpp input.apkm
 | Remove coupons popup | Removes coupon/promotion dialogs | Yes |
 | Remove affiliate tracking | Strips tracking params from shared links | Yes |
 | Enable image saving | Allows saving product images to gallery | No |
+| Bypass signature check | Bypasses SecurityGuard integrity checks to fix login on patched APKs | Yes |
 
 ## Building
 
