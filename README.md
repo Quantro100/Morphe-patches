@@ -9,7 +9,7 @@ Morphe patches for [AliExpress](https://play.google.com/store/apps/details?id=co
 Use the deep link to add this as a patch source in Morphe Manager:
 
 ```
-https://morphe.software/add-source?github=user/aliexpress-patches
+https://morphe.software/add-source?github=Quantro100/Morphe-patches
 ```
 
 Then patch AliExpress:
