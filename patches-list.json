@@ -1,5 +1,4 @@
 {
-  "name": "Morphe AliExpress Patches",
   "version": "1.0.3",
   "patches": [
     {
@@ -12,7 +11,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -37,7 +36,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -62,7 +61,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -87,7 +86,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -112,7 +111,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -137,7 +136,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -162,7 +161,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -187,7 +186,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -212,7 +211,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
@@ -237,7 +236,7 @@
           "packageName": "com.alibaba.aliexpresshd",
           "name": "AliExpress",
           "description": null,
-          "apkFileType": "APK_REQUIRED",
+          "apkFileType": null,
           "appIconColor": "#FF4747",
           "signatures": null,
           "targets": [
