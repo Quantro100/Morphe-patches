@@ -1,5 +1,6 @@
 package app.morphe.patches.aliexpress.utils
 
+import app.morphe.patcher.patch.ApkFileType
 import app.morphe.patcher.patch.AppTarget
 import app.morphe.patcher.patch.Compatibility
 
@@ -8,8 +9,8 @@ internal object Constants {
         packageName = "com.alibaba.aliexpresshd",
         name = "AliExpress",
         description = null,
-        apkFileType = null,
-        appIconColor = null,
+        apkFileType = ApkFileType.APKM,
+        appIconColor = 0xFF4747,
         signatures = null,
         targets = listOf(AppTarget(version = "8.162.8")),
     )

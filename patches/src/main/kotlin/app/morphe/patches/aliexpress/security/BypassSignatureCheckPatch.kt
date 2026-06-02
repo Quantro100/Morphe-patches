@@ -6,7 +6,7 @@ import app.morphe.patcher.patch.bytecodePatch
 import app.morphe.patches.aliexpress.utils.Constants.COMPATIBILITY_ALIEXPRESS
 
 internal object TamperCheckFingerprint : Fingerprint(
-    strings = listOf("may be malicious user illegally tamper data"),
+    strings = listOf("+may be malicious user illegally tamper data"),
     returnType = "Z",
 )
 
