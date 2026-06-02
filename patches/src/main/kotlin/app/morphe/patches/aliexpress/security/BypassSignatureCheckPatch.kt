@@ -18,7 +18,8 @@ val bypassSignatureCheckPatch = bytecodePatch(
     compatibleWith(COMPATIBILITY_ALIEXPRESS)
 
     execute {
-        TamperCheckFingerprint.method.apply {
+        val method = TamperCheckFingerprint.methodOrNull ?: return@execute
+        method.apply {
             addInstructions(
                 0,
                 """
